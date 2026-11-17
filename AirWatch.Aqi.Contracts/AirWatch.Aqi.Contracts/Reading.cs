@@ -6,5 +6,8 @@ namespace AirWatch.Aqi.Contracts
 {
     public class Reading
     {
+        public Pollutant Pollutant { get; set; }
+
+        public double Concentration { get; set; }
     }
 }
