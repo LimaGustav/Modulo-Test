@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="AirWatch.Aqi.Contracts/AirWatch.Aqi.Contracts.csproj" />
+  <Project Path="AirWatch.Aqi.Services/AirWatch.Aqi.Services.csproj" />
+  <Project Path="AirWatch.Aqi.Tests/AirWatch.Aqi.Tests.csproj" />
+</Solution>

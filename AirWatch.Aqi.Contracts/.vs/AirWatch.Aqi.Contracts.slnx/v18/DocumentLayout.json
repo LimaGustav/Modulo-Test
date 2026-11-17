@@ -1,0 +1,157 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lima\\Desktop\\ws-language\\AirWatch.Aqi.Contracts\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{26E8097B-E3A4-BC95-21E8-28C96738AB1F}|AirWatch.Aqi.Services\\AirWatch.Aqi.Services.csproj|c:\\users\\lima\\desktop\\ws-language\\airwatch.aqi.contracts\\airwatch.aqi.services\\airqualityindex.subindex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26E8097B-E3A4-BC95-21E8-28C96738AB1F}|AirWatch.Aqi.Services\\AirWatch.Aqi.Services.csproj|solutionrelative:airwatch.aqi.services\\airqualityindex.subindex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26E8097B-E3A4-BC95-21E8-28C96738AB1F}|AirWatch.Aqi.Services\\AirWatch.Aqi.Services.csproj|c:\\users\\lima\\desktop\\ws-language\\airwatch.aqi.contracts\\airwatch.aqi.services\\airqualityindex.nowcast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26E8097B-E3A4-BC95-21E8-28C96738AB1F}|AirWatch.Aqi.Services\\AirWatch.Aqi.Services.csproj|solutionrelative:airwatch.aqi.services\\airqualityindex.nowcast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26E8097B-E3A4-BC95-21E8-28C96738AB1F}|AirWatch.Aqi.Services\\AirWatch.Aqi.Services.csproj|c:\\users\\lima\\desktop\\ws-language\\airwatch.aqi.contracts\\airwatch.aqi.services\\airqualityindex.aggregation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26E8097B-E3A4-BC95-21E8-28C96738AB1F}|AirWatch.Aqi.Services\\AirWatch.Aqi.Services.csproj|solutionrelative:airwatch.aqi.services\\airqualityindex.aggregation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26E8097B-E3A4-BC95-21E8-28C96738AB1F}|AirWatch.Aqi.Services\\AirWatch.Aqi.Services.csproj|c:\\users\\lima\\desktop\\ws-language\\airwatch.aqi.contracts\\airwatch.aqi.services\\airqualityindex.category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26E8097B-E3A4-BC95-21E8-28C96738AB1F}|AirWatch.Aqi.Services\\AirWatch.Aqi.Services.csproj|solutionrelative:airwatch.aqi.services\\airqualityindex.category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D07C5FC9-0369-6279-97E5-3F9DB3C0ABCA}|AirWatch.Aqi.Contracts\\AirWatch.Aqi.Contracts.csproj|c:\\users\\lima\\desktop\\ws-language\\airwatch.aqi.contracts\\airwatch.aqi.contracts\\reading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D07C5FC9-0369-6279-97E5-3F9DB3C0ABCA}|AirWatch.Aqi.Contracts\\AirWatch.Aqi.Contracts.csproj|solutionrelative:airwatch.aqi.contracts\\reading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D07C5FC9-0369-6279-97E5-3F9DB3C0ABCA}|AirWatch.Aqi.Contracts\\AirWatch.Aqi.Contracts.csproj|c:\\users\\lima\\desktop\\ws-language\\airwatch.aqi.contracts\\airwatch.aqi.contracts\\pollutant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D07C5FC9-0369-6279-97E5-3F9DB3C0ABCA}|AirWatch.Aqi.Contracts\\AirWatch.Aqi.Contracts.csproj|solutionrelative:airwatch.aqi.contracts\\pollutant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D07C5FC9-0369-6279-97E5-3F9DB3C0ABCA}|AirWatch.Aqi.Contracts\\AirWatch.Aqi.Contracts.csproj|c:\\users\\lima\\desktop\\ws-language\\airwatch.aqi.contracts\\airwatch.aqi.contracts\\iairqualityindex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D07C5FC9-0369-6279-97E5-3F9DB3C0ABCA}|AirWatch.Aqi.Contracts\\AirWatch.Aqi.Contracts.csproj|solutionrelative:airwatch.aqi.contracts\\iairqualityindex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DA433B4-BDEE-BBA7-ECF5-C8D3A88AF25F}|AirWatch.Aqi.Tests\\AirWatch.Aqi.Tests.csproj|c:\\users\\lima\\desktop\\ws-language\\airwatch.aqi.contracts\\airwatch.aqi.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DA433B4-BDEE-BBA7-ECF5-C8D3A88AF25F}|AirWatch.Aqi.Tests\\AirWatch.Aqi.Tests.csproj|solutionrelative:airwatch.aqi.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AirQualityIndex.NowCast.cs",
+              "DocumentMoniker": "C:\\Users\\lima\\Desktop\\ws-language\\AirWatch.Aqi.Contracts\\AirWatch.Aqi.Services\\AirQualityIndex.NowCast.cs",
+              "RelativeDocumentMoniker": "AirWatch.Aqi.Services\\AirQualityIndex.NowCast.cs",
+              "ToolTip": "C:\\Users\\lima\\Desktop\\ws-language\\AirWatch.Aqi.Contracts\\AirWatch.Aqi.Services\\AirQualityIndex.NowCast.cs",
+              "RelativeToolTip": "AirWatch.Aqi.Services\\AirQualityIndex.NowCast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T20:23:22.398Z",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AirQualityIndex.Aggregation.cs",
+              "DocumentMoniker": "C:\\Users\\lima\\Desktop\\ws-language\\AirWatch.Aqi.Contracts\\AirWatch.Aqi.Services\\AirQualityIndex.Aggregation.cs",
+              "RelativeDocumentMoniker": "AirWatch.Aqi.Services\\AirQualityIndex.Aggregation.cs",
+              "ToolTip": "C:\\Users\\lima\\Desktop\\ws-language\\AirWatch.Aqi.Contracts\\AirWatch.Aqi.Services\\AirQualityIndex.Aggregation.cs",
+              "RelativeToolTip": "AirWatch.Aqi.Services\\AirQualityIndex.Aggregation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T20:23:12.108Z",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AirQualityIndex.Category.cs",
+              "DocumentMoniker": "C:\\Users\\lima\\Desktop\\ws-language\\AirWatch.Aqi.Contracts\\AirWatch.Aqi.Services\\AirQualityIndex.Category.cs",
+              "RelativeDocumentMoniker": "AirWatch.Aqi.Services\\AirQualityIndex.Category.cs",
+              "ToolTip": "C:\\Users\\lima\\Desktop\\ws-language\\AirWatch.Aqi.Contracts\\AirWatch.Aqi.Services\\AirQualityIndex.Category.cs",
+              "RelativeToolTip": "AirWatch.Aqi.Services\\AirQualityIndex.Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T20:22:59.747Z",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AirQualityIndex.SubIndex.cs",
+              "DocumentMoniker": "C:\\Users\\lima\\Desktop\\ws-language\\AirWatch.Aqi.Contracts\\AirWatch.Aqi.Services\\AirQualityIndex.SubIndex.cs",
+              "RelativeDocumentMoniker": "AirWatch.Aqi.Services\\AirQualityIndex.SubIndex.cs",
+              "ToolTip": "C:\\Users\\lima\\Desktop\\ws-language\\AirWatch.Aqi.Contracts\\AirWatch.Aqi.Services\\AirQualityIndex.SubIndex.cs",
+              "RelativeToolTip": "AirWatch.Aqi.Services\\AirQualityIndex.SubIndex.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T20:22:48.415Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Reading.cs",
+              "DocumentMoniker": "C:\\Users\\lima\\Desktop\\ws-language\\AirWatch.Aqi.Contracts\\AirWatch.Aqi.Contracts\\Reading.cs",
+              "RelativeDocumentMoniker": "AirWatch.Aqi.Contracts\\Reading.cs",
+              "ToolTip": "C:\\Users\\lima\\Desktop\\ws-language\\AirWatch.Aqi.Contracts\\AirWatch.Aqi.Contracts\\Reading.cs",
+              "RelativeToolTip": "AirWatch.Aqi.Contracts\\Reading.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T20:21:08.791Z",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Pollutant.cs",
+              "DocumentMoniker": "C:\\Users\\lima\\Desktop\\ws-language\\AirWatch.Aqi.Contracts\\AirWatch.Aqi.Contracts\\Pollutant.cs",
+              "RelativeDocumentMoniker": "AirWatch.Aqi.Contracts\\Pollutant.cs",
+              "ToolTip": "C:\\Users\\lima\\Desktop\\ws-language\\AirWatch.Aqi.Contracts\\AirWatch.Aqi.Contracts\\Pollutant.cs",
+              "RelativeToolTip": "AirWatch.Aqi.Contracts\\Pollutant.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T20:20:18.417Z",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IAirQualityIndex.cs",
+              "DocumentMoniker": "C:\\Users\\lima\\Desktop\\ws-language\\AirWatch.Aqi.Contracts\\AirWatch.Aqi.Contracts\\IAirQualityIndex.cs",
+              "RelativeDocumentMoniker": "AirWatch.Aqi.Contracts\\IAirQualityIndex.cs",
+              "ToolTip": "C:\\Users\\lima\\Desktop\\ws-language\\AirWatch.Aqi.Contracts\\AirWatch.Aqi.Contracts\\IAirQualityIndex.cs",
+              "RelativeToolTip": "AirWatch.Aqi.Contracts\\IAirQualityIndex.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T20:19:45.928Z",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\lima\\Desktop\\ws-language\\AirWatch.Aqi.Contracts\\AirWatch.Aqi.Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "AirWatch.Aqi.Tests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\lima\\Desktop\\ws-language\\AirWatch.Aqi.Contracts\\AirWatch.Aqi.Tests\\UnitTest1.cs",
+              "RelativeToolTip": "AirWatch.Aqi.Tests\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T20:17:58.627Z",
+              "OwnerCaption": "%2"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

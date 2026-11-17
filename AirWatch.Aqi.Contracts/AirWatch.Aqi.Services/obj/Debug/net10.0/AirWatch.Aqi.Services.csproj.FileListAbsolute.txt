@@ -1,0 +1,15 @@
+C:\Users\lima\Desktop\modulo-teste\AirWatch.Aqi.Contracts\AirWatch.Aqi.Services\bin\Debug\net10.0\AirWatch.Aqi.Services.deps.json
+C:\Users\lima\Desktop\modulo-teste\AirWatch.Aqi.Contracts\AirWatch.Aqi.Services\bin\Debug\net10.0\AirWatch.Aqi.Services.dll
+C:\Users\lima\Desktop\modulo-teste\AirWatch.Aqi.Contracts\AirWatch.Aqi.Services\bin\Debug\net10.0\AirWatch.Aqi.Services.pdb
+C:\Users\lima\Desktop\modulo-teste\AirWatch.Aqi.Contracts\AirWatch.Aqi.Services\bin\Debug\net10.0\AirWatch.Aqi.Contracts.dll
+C:\Users\lima\Desktop\modulo-teste\AirWatch.Aqi.Contracts\AirWatch.Aqi.Services\bin\Debug\net10.0\AirWatch.Aqi.Contracts.pdb
+C:\Users\lima\Desktop\modulo-teste\AirWatch.Aqi.Contracts\AirWatch.Aqi.Services\obj\Debug\net10.0\AirWatch.Aqi.Services.csproj.AssemblyReference.cache
+C:\Users\lima\Desktop\modulo-teste\AirWatch.Aqi.Contracts\AirWatch.Aqi.Services\obj\Debug\net10.0\AirWatch.Aqi.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lima\Desktop\modulo-teste\AirWatch.Aqi.Contracts\AirWatch.Aqi.Services\obj\Debug\net10.0\AirWatch.Aqi.Services.AssemblyInfoInputs.cache
+C:\Users\lima\Desktop\modulo-teste\AirWatch.Aqi.Contracts\AirWatch.Aqi.Services\obj\Debug\net10.0\AirWatch.Aqi.Services.AssemblyInfo.cs
+C:\Users\lima\Desktop\modulo-teste\AirWatch.Aqi.Contracts\AirWatch.Aqi.Services\obj\Debug\net10.0\AirWatch.Aqi.Services.csproj.CoreCompileInputs.cache
+C:\Users\lima\Desktop\modulo-teste\AirWatch.Aqi.Contracts\AirWatch.Aqi.Services\obj\Debug\net10.0\AirWatch.5D485889.Up2Date
+C:\Users\lima\Desktop\modulo-teste\AirWatch.Aqi.Contracts\AirWatch.Aqi.Services\obj\Debug\net10.0\AirWatch.Aqi.Services.dll
+C:\Users\lima\Desktop\modulo-teste\AirWatch.Aqi.Contracts\AirWatch.Aqi.Services\obj\Debug\net10.0\refint\AirWatch.Aqi.Services.dll
+C:\Users\lima\Desktop\modulo-teste\AirWatch.Aqi.Contracts\AirWatch.Aqi.Services\obj\Debug\net10.0\AirWatch.Aqi.Services.pdb
+C:\Users\lima\Desktop\modulo-teste\AirWatch.Aqi.Contracts\AirWatch.Aqi.Services\obj\Debug\net10.0\ref\AirWatch.Aqi.Services.dll
